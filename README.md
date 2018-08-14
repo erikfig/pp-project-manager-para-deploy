@@ -12,6 +12,7 @@
 ```
 
  - Envie para o servidor e configure o document root para o diretório public
+ - Crie o banco de dados usando o comando `php database.php` ou rodando o arquivo `database/01-database.sql` no banco de dados
 
 ## Instalar o cliente
 
